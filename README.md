@@ -16,7 +16,7 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Python and VS Code to create the software
 
 {Describe the programming language that you used and any libraries.}
 
