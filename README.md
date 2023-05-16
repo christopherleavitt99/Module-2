@@ -18,7 +18,7 @@ How many Pokemon have a legendary status?
 
 # Development Environment
 
-I used Python and VS Code to create the software
+I used Python in IDLE Shell 3.11.3 and VS Code 1.78.1 to create the software
 
 {Describe the programming language that you used and any libraries.}
 
