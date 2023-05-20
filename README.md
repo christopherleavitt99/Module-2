@@ -12,15 +12,13 @@ My purpose in creating this software is to learn more about Pokemon, their stats
 
 # Data Analysis Results
 
-Who is the most powerful Pokemon?
+Who is the most powerful Pokemon? It is tie between all versions of Mewtwo and all versions of Rayquaza at 780 stats.
 
-How many Pokemon have a legendary status?
+How many Pokemon have a legendary status? 65
 
 # Development Environment
 
-I used Python in IDLE Shell 3.11.3 and VS Code 1.78.1 to create the software
-
-{Describe the programming language that you used and any libraries.}
+I used Python in IDLE Shell 3.11.3.
 
 # Useful Websites
 
@@ -39,6 +37,4 @@ I used Python in IDLE Shell 3.11.3 and VS Code 1.78.1 to create the software
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- I wasn't able to figure out how to put the Python in a software in VS Code per se. Hopefully my video was informative enough.
