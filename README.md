@@ -4,7 +4,7 @@
 The dataset I decided to analyze was Pokemon with stats. Looking at the csv file in Excel, it lists their number, name, types, total stats, HP, Attack, Defense, Special Attack, Special Defense, Speed, Generation, and legendary status.
 
 https://www.kaggle.com/datasets/abcsds/pokemon/code
-My purpose in creating this software is to learn more about Pokemon, their stats, and rankings in their world.
+My purpose in creating this software is to learn more about Python using Pokemon, their stats, and rankings in their world.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
